@@ -82,8 +82,8 @@ section h3.section-subheading {
 }
 
 .btn-primary:active, .btn-primary:focus {
-  -webkit-box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
-  box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(255, 182, 193, 0.5) !important;
+  box-shadow: 0 0 0 0.2rem rgba(255, 182, 193, 0.5) !important;
 }
 
 ::selection {
@@ -241,7 +241,7 @@ header.masthead .intro-text .intro-heading {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background: rgba(254, 209, 54, 0.9);
+  background: rgba(255, 182, 193, 0.9);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
